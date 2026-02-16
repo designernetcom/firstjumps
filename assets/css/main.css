@@ -15281,7 +15281,7 @@ display: inline-block;
     margin-bottom: 20px;
     animation: fadeDown 1s ease;
     margin-top: 40px;
-    font-family: cursive;
+    /* font-family: cursive; */
 }
 
 .timeTitle {
